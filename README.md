@@ -1,6 +1,6 @@
 # pu1842
 ## Tidying accelerometer data
-This project tidys accelerometer data from the Human Activity Recognition using Smartphones Dataset,
+This project tidies accelerometer data from the Human Activity Recognition using Smartphones Dataset,
 provided by the UCI Machine Learning Repository.
 The raw data is available at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
